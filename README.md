@@ -15,7 +15,6 @@ src/ → source code
 data/ → input/output files  
 
 ## How to Run :
-
 ```bash
 g++ src/main.cpp src/huffman.cpp -o huffman
 ./huffman
